@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="com.brandonmoser.mango.plugins.CFObjectiveBadger" Name="CFObjective Badger" version="1.0.3" provider-name="Brandon Moser, brandonmoser.com" class="CFObjectiveBadger.Handler">
+	<description>
+		<![CDATA[ 
+			<p>
+			CFObjective Badger adds cf.Objective 2011 badges to Mango Blog.
+			</p>
+			<p>
+			Developed by: <a href="http://www.brandonmoser.com" target="_blank">Brandon Moser</a> using the SOTR2010 badge plugin as a template, by <a href="http://www.lagaffe.be" target="_blank">Guust Nieuwenhuis</a>.
+			<br />
+			Project home: <a href="http://www.brandonmoser.com/page.cfm/projects" target="_blank">My Projects</a>
+			</p>
+		 ]]>
+	</description>
+	<listens>
+		<event name="getPods" type="synch" priority="5" />
+		<event name="beforeHtmlHeadEnd" type="synch" priority="5" />
+		<event name="beforePostContentEnd" type="synch" priority="5" />
+	</listens>
+	<listensAdmin>
+		<event name="settingsNav" type="synch" priority="5" />
+		<event name="showCFObjectiveBadgerSettings" type="synch" priority="5" />
+		<event name="getPodsList" type="synch" priority="1" />
+	</listensAdmin>
+	<assets>
+		<asset dir="assets/badges" dest="images" />
+	</assets>
+</plugin>
