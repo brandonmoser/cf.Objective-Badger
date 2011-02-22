@@ -12,10 +12,10 @@ Leave comments on my Projects page for help.
 [My Projects](http://www.brandonmoser.com/pages.cfm/projects)
 
 ### Contributing
-If you like to contribute, please contact me via my profile, (http://github.com/brandonmoser)
+If you like to contribute, please contact me via my profile, [Brandon Moser](http://github.com/brandonmoser)
 
 ### Contributors
-* Brandon Moser (http://github.com/brandonmoser)
+* [Brandon Moser](http://github.com/brandonmoser)
 
 ### Attributions
 This project was a fork of the SOTR2010 badge plugin as a template by [Guust Nieuwenhuis](http://www.lagaffe.be)
