@@ -9,7 +9,7 @@ Once you have the settings completed, you will need to add to your [side]Pod(s).
 
 ### Help with issues
 Leave comments on my Projects page for help.
-[My Projects](http://www.brandonmoser.com/pages.cfm/projects)
+[My Projects](http://www.brandonmoser.com/page.cfm/projects)
 
 ### Contributing
 If you like to contribute, please contact me via my profile, [Brandon Moser](http://github.com/brandonmoser)
